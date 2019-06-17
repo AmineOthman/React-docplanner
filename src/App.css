@@ -1,0 +1,72 @@
+.DocLogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+  margin-top: 30px;
+}
+
+.TopTitle{
+  color: #00b39b;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.row{
+  margin-top: 50px;
+  line-height: 2rem;
+}
+.LogosList{
+  
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+body h3{
+  color: #00b39b;
+
+}
+.MidLogo{
+  width: 400px;
+}
+.FluidSection{
+  background: #e5faf8;
+  background-image: url('https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/jcmy9zzlqh682l0my9p3?fbclid=IwAR1hAwpdywIJfepv32OfOgXuvbf3ZhdSxOUxOWM0pkBTb60gpTS3dlNSQy0');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 450px;
+  background-position: 150px 280px;
+}
+
+.FluidSection p{
+  font-size: .875em;
+  position: relative;
+  top: 80px;
+}
+.FluidTitle{
+  position: relative;
+  top: 50px;
+}
+.BottomSection{
+  text-align: center;
+  margin-top: 80px;
+  
+  
+}
+.BottomSection p{
+  font-size: .875em;
+  margin-top: 30px;
+ 
+}
+.footer{
+  margin-top: 100px;
+  border-top: 1px solid;
+
+}
+
+.footer p{
+  font-size: .875em;
+  text-align: center;
+}

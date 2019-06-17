@@ -1,0 +1,39 @@
+.TopCard{
+    margin-top: 80px;
+    width: 500px;
+    height: 370px;
+    background-color: #00ccb1;
+    /* position: absolute; */
+    border-radius: 10px;
+    overflow: hidden;
+    padding-right: 6px;
+    margin: 30px;   
+}
+
+.ForWho{
+    position: relative;
+    top: 20px;
+    left: 35px;
+    color: #afefe6;
+}
+.Description{
+    position: relative;
+    left: 35px;
+    top: 20px;
+    color: white;
+    font-weight: 400;
+
+    
+}
+.Dropdown{
+    position: relative;
+    top: 40px;
+    left: 35px;
+    
+}
+.CardLogo{
+    width: 380px;
+    position: relative;
+    left: 200px;
+    
+}
